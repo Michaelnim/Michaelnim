@@ -4,7 +4,12 @@
 
 I'm Michael from US and I really enjoy learning new languages I'm currently working on python and python scripts. As a hobby I enjoy working on computers and debugging them whether its hardware or software related.
 
-Skills: Python, Java, Linux, and Hardware/Software debug
+## Skills and Experience
+* 🐍 Python
+* ☕ Java
+* ♻ Linux
+* 👽 Andriod apps
+* 🐜 Hardware/Software debug
 
 - 🔭 I’m currently working on concepts of IT and programming. 
 - 🌱 I’m currently learning Object Oriented Programming. 
